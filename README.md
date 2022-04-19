@@ -21,7 +21,7 @@ In addition to the standard 10-pin Eurorack power header, I've included two dais
 
 ## BOM
 
-Please see the [interactive BOM](bom/ibom.html) for full details. Most of the parts are super common and any established maker will have them in stock. The exception is the MAX333A itself, which is rather expensive -- $16 each at this time. I only used it because I already had them in my stash!
+Please see the [interactive BOM](https://htmlpreview.github.io/?https://github.com/terrabite3/4x-Analog-Switch/blob/main/bom/ibom.html) for full details. Most of the parts are super common and any established maker will have them in stock. The exception is the MAX333A itself, which is rather expensive -- $16 each at this time. I only used it because I already had them in my stash!
 
 Note that the toggle switches must be SPDT **ON-OFF-ON** configuration!
 
