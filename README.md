@@ -25,6 +25,10 @@ Please see the [interactive BOM](https://htmlpreview.github.io/?https://github.c
 
 Note that the toggle switches must be SPDT **ON-OFF-ON** configuration!
 
+### MAX4533 substitution
+
+After designing this module, I learned of the [MAX4533](https://datasheets.maximintegrated.com/en/ds/MAX4533.pdf), which is pin compatible with the MAX333A. It features fault protection and is actually $4 cheaper at this writing. The only downside I see is somewhat higher on resistance. I recommend that you use this part instead.
+
 ## License
 
 * You are free to build this design, modify it, and use parts of it in other designs.
